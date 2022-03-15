@@ -1,0 +1,2 @@
+ToolZalo.exe
+ToolZalo.pdb
