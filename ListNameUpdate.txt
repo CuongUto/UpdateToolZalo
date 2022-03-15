@@ -1,8 +1,0 @@
-chromedriver.exe
-DeviceId.dll
-WebDriver.dll
-WebDriver.Support.dll
-WebDriver.Support.xml
-jquery-get-friend.js
-ToolZalo.exe
-ToolZalo.pdb
